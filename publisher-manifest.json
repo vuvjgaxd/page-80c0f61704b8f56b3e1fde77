@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "97d2c8c1bb00d23598f3051c",
+  "owner": "vuvjgaxd",
+  "repo": "page-80c0f61704b8f56b3e1fde77",
+  "title": "流浪地球",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "80c0f61704b8f56b3e1fde77",
+      "a": "流浪地球",
+      "b": "",
+      "entity": "流浪地球",
+      "brand": "流浪地球",
+      "separator": "",
+      "path": "index.html",
+      "hash": "60cb835fa01206ce694634c196e8df4f3292fb8ffd33b91da0ef01bfd81b01d9",
+      "content": {
+        "keyword1": "流浪地球",
+        "keyword2": "",
+        "primary_entity": "流浪地球",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "流浪地球是提供机场订阅与VPN网络加速的官方网站，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，套餐灵活可按月或按年开通。",
+          "AI_DESCRIPTION": "流浪地球是提供机场订阅与VPN网络加速的官方网站，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，套餐灵活可按月或按年开通。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;width:100%;overflow-x:hidden}*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#efeaf6;color:#1e1b2e;font-size:16px;line-height:1.75}img,svg,video,iframe{display:none}a{color:#5b21b6;text-decoration:underline;word-break:break-all}header{background:#4c1d95;color:#faf5ff;padding:18px 16px}header .brand{font-size:14px;letter-spacing:.08em}header p{margin:6px 0 0;font-size:13px;color:#ddd6fe}.wrap{max-width:740px;margin:0 auto;padding:16px 16px 40px}main{display:block}h1{font-size:1.8rem;line-height:1.3;margin:8px 0 12px;color:#2e1065}h2{font-size:1.32rem;color:#5b21b6;margin:1.6rem 0 .7rem;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.05rem;color:#3b0764;margin:1rem 0 .4rem}p{margin:0 0 12px}ul{margin:0 0 12px;padding-left:1.2rem}li{margin:0 0 6px}nav.crumbs{font-size:13px;margin-bottom:10px;color:#6b6480}nav.crumbs a{color:#5b21b6}.card{background:#fff;border:1px solid #e4dcf3;border-radius:12px;padding:16px;margin:0 0 14px}.lead{font-size:1.02rem;color:#3f3a52}.plan{background:#fff;border:1px solid #e4dcf3;border-radius:12px;padding:16px;margin:0 0 12px}.plan.featured{border:2px solid #7c3aed;background:#f6f2ff}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;font-weight:700;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.price{font-size:1.4rem;font-weight:700;color:#5b21b6;margin:4px 0}.annual{font-size:14px;color:#5b5470;margin-bottom:8px}.step{display:flex;gap:12px;align-items:flex-start;margin:0 0 14px}.idx{flex:0 0 32px;width:32px;height:32px;border-radius:50%;background:#6d28d9;color:#fff;font-weight:700;text-align:center;line-height:32px}.step .body{flex:1;min-width:0}.faq-wrap{background:#f3e8ff;border:1px solid #d8b4fe;border-radius:12px;padding:14px}details{background:#fff;border:1px solid #ddd6fe;border-radius:8px;margin:0 0 10px}summary{padding:12px 14px;font-weight:700;color:#4c1d95}details .ans{padding:0 14px 12px;color:#374151}aside.ad{background:#fff;border:1px dashed #a78bfa;border-radius:12px;padding:14px;margin:16px 0;color:#4c1d95}footer{background:#2e1065;color:#e9d5ff;padding:20px 16px;font-size:14px}footer a{color:#f5d0fe}.sitemap ul{list-style:none;padding:0;margin:0}.sitemap li{margin:0 0 6px}.muted{color:#5b5470;font-size:14px}</style><header><div class=\"wrap\"><div class=\"brand\">流浪地球 · 官方网站</div><p>机场订阅 · VPN 网络加速 · 客户端官方下载</p></div></header><div class=\"wrap\"><nav class=\"crumbs\" aria-label=\"页面导航\"><a href=\"#intro\">简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#scenes\">场景</a> · <a href=\"#guide\">步骤</a> · <a href=\"#download\">下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#sitemap\">网站地图</a></nav><main><h1>流浪地球</h1><p class=\"lead\" id=\"intro\">流浪地球是面向个人与团队的网络加速与机场订阅服务。我们以官方网站发布套餐、节点说明与客户端下载指引，帮助你在跨境协作、资料访问、流媒体与游戏场景中建立更稳定的加密通道。品牌名取自远航与家园的意象：把连接带到需要的地方，同时把选择权留在你手中。</p><section class=\"card\"><h2>品牌简介</h2><p>流浪地球 VPN 与机场订阅面向需要跨境访问的用户。服务侧重点是可预期的线路质量、清晰的流量配额，以及可在手机与电脑间同步的多端客户端。你可以通过官方下载获取常用客户端，再将订阅导入后选择节点连接。</p><p>与临时分享的节点不同，流浪地球把套餐、设备数量和线路类型写进方案本身：基础版覆盖日常网页与基础流媒体；旗舰版强化原生流媒体与 IPLC 游戏向优化；团队版面向多设备与定制路由。所有说明以本页为准，避免来路不明的安装包与二次分发链接。</p><p class=\"muted\">本站为流浪地球官方网站。订阅开通后，请在账户中复制订阅地址，再按下方操作说明导入客户端。下载仅通过本页「官方下载」章节对应系统说明进行。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>价格按自然月计费，年付可锁定全年用量。流量为当月极速配额，用尽后可等待次月重置或升级方案。设备数指同时在线终端，超出后新连接会被拒绝直至有设备下线。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p class=\"muted\">适合轻度跨境浏览、邮件与资料查阅。若以 4K 点播或大型更新为主，建议直接看旗舰版配额。</p></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p class=\"muted\">日常主力方案。原生解锁降低版权库地区不匹配的概率，游戏向节点把延迟和丢包作为优先观测指标。</p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p class=\"muted\">适合工作室、实验室或需要统一出口策略的小团队。定制路由可按域名或网段分流，避免全部流量挤在同一条线路。</p></article></section><section id=\"scenes\" class=\"card\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>会议、网盘与代码托管在不同地区时，普通国际出口容易抖动。选择靠近协作对象的节点，并把办公域名走加速通道，可减少会议卡顿与大文件中断。</p><h3>学术资料与公开数据库</h3><p>部分期刊、预印本和开放数据站点对访问来源敏感。使用稳定节点保持会话，避免反复验证；大文件下载请关注当月剩余流量。</p><h3>流媒体观看</h3><p>基础版覆盖常见点播需求；旗舰版强调原生解锁，降低因 IP 类型导致的版权库缺失。建议固定一条线路观看，频繁切换地区可能触发平台风控。</p><h3>游戏加速</h3><p>旗舰版标注 IPLC 游戏向优化，适合对延迟敏感的对战与更新下载。请在客户端内选择游戏相关节点，并关闭系统代理对局域网的误伤。</p><h3>差旅与多设备切换</h3><p>同一订阅可在电脑与手机间导入。注意同时在线台数：基础版 3 台、旗舰版 5 台、团队版 20 台。出差时优先用系统代理或 TUN 模式，减少应用逐个配置。</p></section><section id=\"guide\" class=\"card\"><h2>操作说明（纵向步骤）</h2><p>按顺序完成即可开始加速。任何一步失败，先回到本页核对客户端名称与订阅格式，再查看常见问题。</p><div class=\"step\"><div class=\"idx\">1</div><div class=\"body\"><h3>确认方案与设备数量</h3><p>根据流量、同时在线台数和是否需要原生流媒体或游戏向线路，选择基础版、旗舰版或团队版。年付适合长期使用，月付适合先验证线路是否符合你的时段与地区。</p></div></div><div class=\"step\"><div class=\"idx\">2</div><div class=\"body\"><h3>获取机场订阅</h3><p>开通后在官方账户复制订阅链接。链接通常为统一订阅格式，可被主流客户端识别。不要把订阅发到公开群组，泄露后请立即重置。</p></div></div><div class=\"step\"><div class=\"idx\">3</div><div class=\"body\"><h3>官方下载并安装客户端</h3><p>进入下方「官方下载」按系统获取安装包。Windows 与 macOS 使用桌面客户端；Android 安装对应应用；iOS 使用支持订阅导入的客户端。安装时只授予必要的 VPN 或代理权限。</p></div></div><div class=\"step\"><div class=\"idx\">4</div><div class=\"body\"><h3>导入订阅并更新节点</h3><p>在客户端选择「从 URL 导入」或「订阅管理」，粘贴链接并更新。成功后应看到地区分组。若列表为空，检查链接是否完整、系统时间是否准确。</p></div></div><div class=\"step\"><div class=\"idx\">5</div><div class=\"body\"><h3>选择节点并连接</h3><p>网页浏览可选综合节点；流媒体选解锁分组；游戏选 IPLC 或低延迟分组。连接后访问状态页确认出口 IP。断开时在客户端内关闭隧道，避免残留代理导致内网失败。</p></div></div></section><section id=\"download\" class=\"card\"><h2>客户端官方下载</h2><p>流浪地球不捆绑来路不明的破解包。请只通过本官方网站提供的下载说明获取客户端，再导入你的机场订阅。下列入口为页面锚点指引，安装包以账户内最新版本说明为准。</p><h3>Windows 官方下载</h3><p>适用于 Windows 10 及以上。安装后允许创建虚拟网卡，导入订阅，开启系统代理或 TUN。企业电脑若禁止驱动安装，可改用仅代理模式。</p><p><a href=\"#download\">Windows 客户端官方下载说明</a></p><h3>macOS 官方下载</h3><p>从系统设置允许网络扩展。菜单栏可切换节点。若提示身份不明开发者，请在系统设置中允许该应用，而不是关闭全部安全策略。</p><p><a href=\"#download\">macOS 客户端官方下载说明</a></p><h3>Android 官方下载</h3><p>安装后授予 VPN 权限。建议关闭省电对客户端的限制，以免心跳被杀导致掉线。可与同一订阅在电脑端共用，计入同时在线台数。</p><p><a href=\"#download\">Android 客户端官方下载说明</a></p><h3>iOS 与通用订阅</h3><p>iOS 使用支持订阅的客户端粘贴链接。通用 Clash / 订阅格式可导入到你已熟悉的工具。首次连接请在系统设置中允许添加 VPN 配置。</p><p><a href=\"#download\">iOS 与通用订阅导入说明</a></p></section><aside class=\"ad\" id=\"ads\"><h2>合作与展示位</h2><p>本栏为流浪地球官网合作信息位，用于节点合作、客户端渠道与品牌联合说明，不放置跳转脚本或外部资源。如需商务对接，请通过页脚标注的官方渠道留言，并注明「广告合作」。</p></aside><section id=\"faq\" class=\"faq-wrap\"><h2>常见问题</h2><p>以下问题按实际开通顺序排列。点开即可阅读完整回答，内容均在页面内可见。</p><details><summary>流浪地球是什么？和普通加速器有何不同？</summary><div class=\"ans\"><p>流浪地球是提供机场订阅与 VPN 网络加速的服务品牌。你购买的是带流量与设备上限的订阅，而不是一次性节点文本。官方网站同时给出套餐对比、使用场景、分步操作和客户端下载说明，减少在非官方渠道误装软件的风险。</p></div></details><details><summary>如何完成客户端下载并安全安装？</summary><div class=\"ans\"><p>打开本页「官方下载」章节，按 Windows、macOS、Android 或 iOS 阅读对应说明。只安装你认识的客户端，核对应用名称后再授予 VPN 权限。不要使用第三方改包。安装完成后回到账户复制订阅，而不是扫描来源不明的二维码。</p></div></details><details><summary>机场订阅怎样导入？连接后没有网怎么办？</summary><div class=\"ans\"><p>在客户端的订阅或配置管理中选择从 URL 导入，粘贴完整链接并更新节点。若连接后无法访问，依次检查：系统时间、是否选中有效节点、是否误开冲突的系统代理、本地防火墙是否拦截。仍失败时更换同地区另一节点，或改用 TUN 模式。</p></div></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><div class=\"ans\"><p>以设备和流量为第一依据：3 台设备且以网页为主选基础版；需要原生流媒体、游戏向 IPLC 和优先工单选旗舰版；超过 5 台设备或需要定制路由选团队版。年付适合已经验证过线路的长期用户，月付适合先跑通自己的常用站点。</p></div></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><div class=\"ans\"><p>基础版提供基础流媒体解锁；旗舰版与团队版强调全节点原生解锁。游戏加速主要体现在旗舰版的 IPLC 专线优化。实际可用性随平台策略变化，建议固定线路、避免短时间反复切换地区。4K 或游戏更新会明显消耗月度流量。</p></div></details><details><summary>流量用尽或设备超限会怎样？</summary><div class=\"ans\"><p>极速流量用尽后当月加速能力下降或暂停，直至下个计费周期重置，也可升级套餐。同时在线超过方案台数时，新设备无法接入。请在不使用的终端断开隧道。团队版适合需要更多并发的环境，但仍建议按岗位分配，避免无限制共享。</p></div></details><details><summary>官方身份如何确认？会不会有假下载站？</summary><div class=\"ans\"><p>请认准流浪地球官方网站的品牌呈现、套餐名称与本页结构。任何要求你关闭系统安全软件、或跳转到不相干域名下载安装包的来源都不可信。本页链接仅使用站内锚点。订阅重置、发票与工单只通过官方账户处理。</p></div></details></section><section id=\"sitemap\" class=\"card sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐与机场订阅</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端官方下载</a></li><li><a href=\"#ads\">合作与展示位</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><section id=\"links\" class=\"card\"><h2>友情链接</h2><p><a href=\"#guide\">帮助中心</a> · <a href=\"#plans\">套餐说明</a> · <a href=\"#download\">官方下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#sitemap\">网站地图</a> · <a href=\"#\">服务条款</a> · <a href=\"#\">隐私说明</a> · <a href=\"#\">节点公告</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main></div><footer><div class=\"wrap\"><p>流浪地球官方网站 · 机场订阅与 VPN 加速器客户端下载</p><p>商务与工单请通过官方账户提交，页面内容用于说明套餐、场景与操作步骤。</p><p><a href=\"#intro\">返回顶部</a></p></div></footer>",
+          "hash": "496364d26f3eceef5d7d3cd7323c808d76f32b589ddbca559616cf1196c88998",
+          "seo": {
+            "title": "流浪地球官网 | VPN加速器与机场订阅客户端下载",
+            "keywords": "流浪地球,流浪地球官网,流浪地球VPN,流浪地球机场,VPN,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "流浪地球是提供机场订阅与VPN网络加速的官方网站，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，套餐灵活可按月或按年开通。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sfhhy.cn",
+    "host": "p-4e62cccdd0.sfhhy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "sfhhy.cn",
+      "url": "https://sfhhy.cn/",
+      "label": "次元雲",
+      "apex": "sfhhy.cn",
+      "kind": null,
+      "identity": "jwkhnv/page-584af0c0412502794d09bed5"
+    },
+    {
+      "host": "agjihdn.cn",
+      "url": "https://agjihdn.cn/",
+      "label": "流浪地球",
+      "apex": "agjihdn.cn",
+      "kind": null,
+      "identity": "efqpmqbd/page-e3dbd876690e78823260e325"
+    },
+    {
+      "host": "ajlbhgt.cn",
+      "url": "https://ajlbhgt.cn/",
+      "label": "流浪地球",
+      "apex": "ajlbhgt.cn",
+      "kind": null,
+      "identity": "bxfexj6h/page-07661524ed77df2bd8af45d7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "eefafd62f12e46056c119367e9491b1ab6142a7813911bc540bcc13c51976d39",
+    "sitemap.xml": "f25490ff7ab31197f1fb2e13c92c28e321a83a35d0efd2c137483f02fb7e7206",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "59134c44494d416121d79a71105ac94d14562765a3136f8749a0173126151452",
+    "robots.txt": "28ab65b9bdec9cd2a5ec03a161977b69276d1f0ff3275342877823b5a1d8125e",
+    "834d2ff0edffb88054dd0100b91996d2.txt": "9e8f585bd3f91869a8c666e6a66cca2b76b3b8ccae5c0b08137c308eeb627643"
+  },
+  "revision": "05588bd3d43fa40af42150dc6ea6f6b3ec4a4a439fddb519e859723dc9a7138f"
+}
